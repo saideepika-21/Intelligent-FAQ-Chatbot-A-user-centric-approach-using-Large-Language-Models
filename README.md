@@ -1,0 +1,2 @@
+# Intelligent-FAQ-Chatbot-A-user-centric-approach-using-Large-Language-Models
+"This project introduces an advanced FAQ chatbot powered by Large Language Models (LLMs). Unlike rule-based bots, it understands intent, adapts to context, and learns from feedback. By leveraging user data and interaction history, it personalizes responses, enhances scalability, and delivers intelligent, user-centric customer support automation."
